@@ -1,2 +1,2 @@
 # The Hound of the Baskervilles - Reader Diary
-Text Improvements comparison
+Text Improvements Comparison & Parsing
